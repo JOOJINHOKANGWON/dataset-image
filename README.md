@@ -1,2 +1,4 @@
 # dataset-image
-image of Vaccinium oldhamii for training 
+images for train
+train roi : Vaccinium oldhamii (did not resize yet)
+realtrain : Vaccinium oldhamii (resized 200,200)
